@@ -1,0 +1,62 @@
+React:
+
+Function Components with Hooks
+Class Components
+
+
+React design concepts - > Function & Class Components & their benefits
+JSX event handlers, working with data & API's
+React hooks for State & Side Effects
+Taking inout from the user & Communicating between the components
+React one-way binding of data
+Local Dev environment
+
+Current learning code should work anything after v16.8[Hooks]
+
+Why do you like React?
+
+	1. Fast learning curve [Thinking in React]
+	2. Reusable components [*your app has consistent look & feel *code re-use makes it more easier to maintain & grow your codebase *it is earier to develop your codebase]
+	3. Fast render with Virtual DOM [it is something DOM kept in memory, maintains prev & current states of the DOM]
+	4. Clean Abstraction
+	5. Flux & React [unidirectional data flow]
+	6. Great Developer Tools
+	7. React Native
+	8. Declarative Language (model UI & state)
+
+React is a JS Library for building User Interfaces
+
+React is declarative, what it means?
+
+How exactly is NOT being a framework a good thing?
+
+
+
+1.Components - like functions
+	Inputs: props, state Output: UI
+	Reusable & composable
+	Components can contain other Components
+	<Component/>
+2. Reactive Updates
+
+3. Virtual views in Memory
+	Generate HTML using JS
+	No HTML template language
+	Tree conciliation
+
+
+Function Components & Class Components => JSX
+
+Props are immutable
+State changes based on user input
+
+
+Whatever executes on the browser, is JSX
+A special Javascript Extention being equiped to the browser DOM
+hence browser will render HTML on the window.
+Also there is something called Babel, which transpiles your JSX code into HTML when it renders
+
+
+JS destructuring feature in one line
+
+
